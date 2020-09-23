@@ -1,9 +1,9 @@
-### Hi there 👋
-
+### Hi there im Bharath Reddy 👋
+[![Twitter Follow](https://img.shields.io/twitter/follow/Bharath95440790?label=Bharath&style=social](https://twitter.com/Bharath95440790)
+[![Linkedin: Bharath](https://img.shields.io/badge/-Andrey%20Lukyanenko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andlukyane/)](https://www.linkedin.com/in/bharath-k-reddy/)
+[![Medium Badge](https://img.shields.io/badge/-artgor-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@artgor)](https://medium.com/@reddybharath.khttps://medium.com/@reddybharath.k)
 <!--
 **bharathkreddy/bharathkreddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
