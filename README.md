@@ -1,16 +1,21 @@
 ### Hi there im Bharath Reddy 👋
-[![Twitter Follow](https://img.shields.io/twitter/follow/Bharath95440790?label=Bharath&style=social](https://twitter.com/Bharath95440790)
-[![Linkedin: Bharath](https://img.shields.io/badge/-Andrey%20Lukyanenko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andlukyane/)](https://www.linkedin.com/in/bharath-k-reddy/)
-[![Medium Badge](https://img.shields.io/badge/-artgor-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@artgor)](https://medium.com/@reddybharath.khttps://medium.com/@reddybharath.k)
+
+<a href="https://www.bharathkreddy.com"><img align="left" src="https://i.imgur.com/axjt3Qe.png" alt="WWW.BHARARTHKREDDY.COM" title="www.bharathkreddy.com"></a>
+# [www.bharathkreddy.com](https://www.bharathkreddy.com)
+
+   [![Twitter Follow](https://img.shields.io/twitter/follow/Bharath95440790?label=Bharath&style=social)](https://twitter.com/Bharath95440790)
+   [![Linkedin: Bharath](https://img.shields.io/badge/-Bharath%20Reddy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bharath-k-reddy/)](https://www.linkedin.com/in/bharath-k-reddy/)
+   [![Medium Badge](https://img.shields.io/badge/-Bharath-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@reddybharath.k)](https://medium.com/@reddybharath.k)
+
+I am a teacher, a consultant and a data scientist. I teach Machine learning and AI to people with no prior exposure to coding or mathmatics. I consult on how can organizations convert data to valuble Ops Accumen. I am employed with a large bank to analyze their data and help them with a big transformation project.
 <!--
 **bharathkreddy/bharathkreddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on ... NLP project.
+- 🌱 I’m currently learning ... Django
+- 👯 I’m looking to collaborate on ... Machine learning Projects
+- 🤔 I’m looking for help with ... Deployment of Machine Learning Models.
+- 💬 Ask me about ... Anything
+- 📫 How to reach me: ... reddybharath.k@gmail.com
+- ⚡ Fun fact: ... I write a lot. Check out my blogs on my website.
 -->
