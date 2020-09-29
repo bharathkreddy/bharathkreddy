@@ -16,11 +16,11 @@ I teach Machine learning and AI to people with no prior exposure to coding or ma
 
 
 
-- 🔭 I’m currently working on ... NLP project.
-- 🌱 I’m currently learning ... Django
-- 👯 I’m looking to collaborate on ... Machine learning Projects
-- 🤔 I’m looking for help with ... Deployment of Machine Learning Models.
-- 💬 Ask me about ... Anything
+- 🔭 Skills : Data Analytics, Machine Learning, Deep Learning, Computer vision, NLP.
+- 🌱 Experience : Fund Accounting, Middle office operations, Internal Controls, Data Scientist.
+- 👯 Tools : Python, R, Alteryx, Power BI, Web development, flask, Django
+- 🤔 I’m learning ... D3.j 
+- 💬 Ask me about ... anything interesting.
 - 📫 How to reach me: ... reddybharath.k@gmail.com
 - ⚡ Fun fact: ... I write a lot. Check out my blogs on my website.
 
