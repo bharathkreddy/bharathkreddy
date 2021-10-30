@@ -12,7 +12,7 @@
 I am a teacher, a consultant and a data scientist. 
 
 
-I teach Machine learning and AI to people with no prior exposure to coding or mathmatics. I consult on how can organizations convert data to valuble Ops Accumen. I am employed with a large bank to move their data to data mesh and stand up a production greade MLOps platform. My work is at the intersection of Data Analytics, Data Engineering and Fund Accounting Domain knowledge.
+I teach Machine learning and AI to people with no prior exposure to coding or mathmatics. I consult on how can organizations convert data to valuble Ops Accumen. I am employed with a large bank to help their journey to Data Mesh, move their data to the mesh and stand up a production greade MLOps platform. My work is at the intersection of Data Analytics, Data Engineering and Fund Accounting Domain knowledge.
 
 
 
