@@ -17,7 +17,7 @@ I teach Machine learning and AI to people with no prior exposure to coding or ma
 
 
 - 🔭 Skills : Data Analytics, Machine Learning, Deep Learning, Computer vision, NLP.
-- 🌱 Experience : Fund Accounting, Middle office operations, Internal Controls, Data Scientist.
+- 🌱 Experience : Fund Accounting, Middle office operations, Internal Controls, Data Science & data engineering.
 - 👯 Tools : Python, R, Alteryx, Power BI, Web development, flask, Django
 - 🤔 I’m learning ... D3.j 
 - 💬 Ask me about ... anything interesting.
