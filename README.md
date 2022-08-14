@@ -9,111 +9,76 @@
    [![Medium Badge](https://img.shields.io/badge/-Bharath-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@reddybharath.k)](https://medium.com/@reddybharath.k)
 
 
-I am a Data Scientist with good Data Engineering skills, working for a large bank. I teach a machine learning & Statistics course in my sparetime.
+I am a self taught programmer working as a Data Scientist with good Data Engineering skills, working for a large bank. I teach a machine learning & Statistics course in my sparetime. I consult on how can organizations convert data to valuble Ops Accumen. My work is at the intersection of Data Analytics, Data Engineering and Fund Accounting Domain knowledge. I am a process mining enthusiast.
 
-
-I consult on how can organizations convert data to valuble Ops Accumen. I am employed with a large bank to help their journey to Data Mesh, move their data to the mesh and stand up a production greade MLOps platform. My work is at the intersection of Data Analytics, Data Engineering and Fund Accounting Domain knowledge. A process mining enthusiast.
-
-
-
-- 🔭 Skills : Move data from a point A to B and then make sense of it. Data Analytics, Machine Learning, Deep Learning, Computer vision, NLP, data engineering.
-- 🌱 Experience : Data Science, Engineering, Fund Accounting, Middle office operations, Internal Controls.
-- 👯 Tools : I code in Python & Java, web development, containerization & container orchestration, CICD pipelines on git & Azure, Kafka, Airflow, database design and data modelling, Infra as code, software mgmt tools like ancible, chef and puppet. 
-- 🤔 I’m learning ... D3.j 
-- 💬 Ask me about ... anything interesting.
-- 📫 How to reach me: ... reddybharath.k@gmail.com
-- ⚡ Fun fact: ... I write a bit. Check out my blogs on my website.
-
-Johnny Coder
-============
-
--------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
--------------------     ----------------------------
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2007-2009 
+:   **MBA, Finance**; Edith Cowan
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+    *Thesis title: Negative investor problem with Credit Default swap holdings by board members of an ongoing concern*
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+2002-2006
+:   **B.Tech, Electrical and Electronics Engineering**; JNTU (Hyderabad)
 
-    *Minor: Awesomeology*
+    *Minor: Computational Methods for speed control of brushless motors*
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**Vice President Data Sciences: Northern Trust (London)**
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+I use quantitavie methods to solve some tough business problems across varous business domains for Northern Trust:
 
-* First item
+* Extensive work on Engineering data pipelines 
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+* Extensive work on deployment pipelines.
 
-**That Other Job You Had**
+**Lead Consultant Internal Risk & controls: Northern Trust (India)**
 
-Also with a short description.
+Managed Internal risk and control function for wide range of business funtions.
 
 Technical Experience
 --------------------
 
 My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+:   IoT
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+    * Capture with wireshark all network packet around my house.
+    * Create events for each new device added to or leaving the network,
+    * Use Anomaly detection to create events for abnornal network activity.
+    * All of the applications are hosted on AWS
+    * (in progress...) Develop an ios App to get alerts. 
+    
+ : Raspbery Pi
+ 
+    * Takes input from a python program and using a robotic arm draws the same image on a surface.
+    * (I want to ...) sometime use CV to detect a printed image and get the arm to replicate it.
 
 Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+:   Apache beam,  ** Kernel**, corrections on multithreading over a long weekend .. first open source contribution.
+:   Apache Airflow ( awaiting merge .. )
 
 Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+:   **Python:** 
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+:   **Java:** 
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+:   Basic knowledge of **C**, **scala**
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+:   I am quite good with containerization & container orchestration tools, orchestrators like airflow, streaming platfroms like kakfa, databases (relational & non-relational), CI CD pipelining on Azure and github actions.  
 
-[ref]: https://github.com/githubuser/superlongprojectname
+[ref]: https://github.com/githubuser/bharathkreddy
 
-Extra Section, Call it Whatever You Want
+Fun Facts ...
 ----------------------------------------
 
 * Human Languages:
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+     * English 
+     * Hindi
+     * Telugu
 
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+* I can do pretty neat tricks beyond just solving rubicks cube, I sketch a bit and love to read science books.
