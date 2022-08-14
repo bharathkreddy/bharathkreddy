@@ -9,18 +9,18 @@
    [![Medium Badge](https://img.shields.io/badge/-Bharath-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@reddybharath.k)](https://medium.com/@reddybharath.k)
 
 
-I am a teacher, a consultant and a data scientist. 
+I work as a data scientist and a dataengineer for a large bank. 
 
 
 I teach Machine learning and AI to people with no prior exposure to coding or mathmatics. I consult on how can organizations convert data to valuble Ops Accumen. I am employed with a large bank to help their journey to Data Mesh, move their data to the mesh and stand up a production greade MLOps platform. My work is at the intersection of Data Analytics, Data Engineering and Fund Accounting Domain knowledge.
 
 
 
-- 🔭 Skills : Data Analytics, Machine Learning, Deep Learning, Computer vision, NLP.
+- 🔭 Skills : Data Analytics, Machine Learning, Deep Learning, Computer vision, NLP, data engineering.
 - 🌱 Experience : Fund Accounting, Middle office operations, Internal Controls, Data Science & data engineering.
-- 👯 Tools : Python, R, Alteryx, Power BI, Web development, flask, Django
+- 👯 Tools : I code in Python & Java, web development, containerization & container orchestration, CICD pipelines on git & Azure, Kafka, Airflow, database design and data modelling, Infra as code, software mgmt tools like ancible, chef and puppet. 
 - 🤔 I’m learning ... D3.j 
 - 💬 Ask me about ... anything interesting.
 - 📫 How to reach me: ... reddybharath.k@gmail.com
-- ⚡ Fun fact: ... I write a lot. Check out my blogs on my website.
+- ⚡ Fun fact: ... I write a bit. Check out my blogs on my website.
 
