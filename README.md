@@ -9,8 +9,7 @@
    [![Medium Badge](https://img.shields.io/badge/-Bharath-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@reddybharath.k)](https://medium.com/@reddybharath.k)
 
 
-I am a self taught programmer working as a Data Scientist with good Data Engineering skills, working for a large bank. I teach a machine learning & Statistics course in my sparetime. I consult on how can organizations convert data to valuble Ops Accumen. My work is at the intersection of Data Analytics, Data Engineering and Fund Accounting Domain knowledge. I am a process mining enthusiast.
-
+I am a self taught programmer working as a Data Scientist with  a large bank. I teach a machine learning & Statistics course in my sparetime. I consult on data challenges with organizations & converting data to valuble Ops Accumen.
 
 Education
 ---------
@@ -68,17 +67,8 @@ Programming Languages
 
 :   Basic knowledge of **C**, **scala**
 
-:   I am quite good with containerization & container orchestration tools, orchestrators like airflow, streaming platfroms like kakfa, databases (relational & non-relational), CI CD pipelining on Azure and github actions.  
+:   I am quite good with containerization & container orchestration tools, orchestrators like airflow, luigi and prefect, streaming platfroms like kakfa, samza and flink. Databases (relational & non-relational), CI CD pipelining on Azure and github actions.
 
 [ref]: https://github.com/githubuser/bharathkreddy
 
-Fun Facts ...
-----------------------------------------
 
-* Human Languages:
-
-     * English 
-     * Hindi
-     * Telugu
-
-* I can do pretty neat tricks beyond just solving rubicks cube, I sketch a bit and love to read science books.
